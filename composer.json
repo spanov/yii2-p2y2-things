@@ -1,5 +1,5 @@
 {
-	"name": "p2made/yii2-p2y2-things",
+	"name": "spanov/yii2-p2y2-things",
 	"description": "A bunch of CSS & JS resources wrapped as Yii 2 AssetBundles &/or Widgets.",
 	"type": "yii2-extension",
 	"keywords": [
