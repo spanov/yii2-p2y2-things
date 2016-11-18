@@ -34,7 +34,7 @@
 	"require": {
 		"yiisoft/yii2": ">=2.0.8",
 		"fxp/composer-asset-plugin": "1.1.4",
-		"bower-asset/animate.css": "3.5.1",
+		"bower-asset/animate.css": "*",
 		"bower-asset/bootstrap-social": "5.0.0",
 		"bower-asset/bootstrap-sweetalert": "0.4.5",
 		"bower-asset/bootstrap-switch": "v3.3.2",
@@ -56,7 +56,7 @@
 		"bower-asset/fullcalendar": "2.7.1",
 		"bower-asset/gmaps": "0.4.24",
 		"bower-asset/holderjs": "v2.9.3",
-		"bower-asset/isotope": "v3.0.0",
+		"bower-asset/isotope": "*",
 		"bower-asset/jquery-countto": "v1.2.0",
 		"bower-asset/jquery-migrate": "1.4.0",
 		"bower-asset/jquery-ui": "1.11.4",
